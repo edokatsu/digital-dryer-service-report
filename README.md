@@ -1,4 +1,4 @@
-# My own note
+# Note
 
 ## git clone the repo 
 clone the repo from Github
