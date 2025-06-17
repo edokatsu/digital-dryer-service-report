@@ -1,4 +1,4 @@
-# How I did it
+# My own note
 
 ## git clone the repo 
 clone the repo from Github
